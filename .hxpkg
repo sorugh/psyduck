@@ -3,14 +3,12 @@
 		"profile": "default",
 		"pkgs": [
 			{
-				"name": "lime",
-				"link": "https://github.com/openfl/lime.git",
-				"branch": "develop"
+				"name": "openfl",
+				"version": "9.2.2"
 			},
 			{
-				"name": "openfl",
-				"link": "https://github.com/openfl/openfl.git",
-				"branch": "develop"
+				"name": "lime",
+				"version": "8.1.2"
 			},
 			{
 				"name": "flixel",
